@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terti-arm-template
+  annotations:
+    github.com/project-slug: henry507/terti-arm-template
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
